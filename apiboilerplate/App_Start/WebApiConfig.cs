@@ -14,11 +14,14 @@ namespace apiboilerplate
             // Itinéraires de l'API Web
             config.MapHttpAttributeRoutes();
 
+            /*
+            Remove this because you probably don't want WebAPI to create routes for you
             config.Routes.MapHttpRoute(
                 name: "DefaultApi",
                 routeTemplate: "api/{controller}/{id}",
                 defaults: new { id = RouteParameter.Optional }
             );
+            */
         }
     }
 }
