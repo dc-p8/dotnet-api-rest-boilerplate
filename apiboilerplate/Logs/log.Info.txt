@@ -1,4 +1,0 @@
-USERCONTROLLER 2018-08-10 14:50:43.1838 requestign name for id 0
-USERCONTROLLER 2018-08-10 14:52:44.3650 requestign name for id 0
-USERCONTROLLER 2018-08-10 14:52:53.0218 requestign name for id 1
-USERCONTROLLER 2018-08-10 15:18:57.8291 requestign name for id 1
