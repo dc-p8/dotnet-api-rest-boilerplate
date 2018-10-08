@@ -43,7 +43,7 @@ namespace apiboilerplate
             // container.LoadConfiguration();
 
             // TODO: Register your type's mappings here.
-
+            // container.RegisterType<IProductRepository, ProductRepository>();
             // Binding ILogger to NLog
             var ext = new NLogExtension
             {
